@@ -1,7 +1,6 @@
 # Price-Prediction-for-Used-Cars-Datascience-Project
 This project uses machine learning to predict the price of a used car. The model is trained on a dataset of historical car sales data, and it can then be used to predict the price of a car based on its features.
-## # Price-Prediction-for-Used-Cars-Datascience-Project
-This project uses machine learning to predict the price of a used car. The model is trained on a dataset of historical car sales data, and it can then be used to predict the price of a car based on its features.
+
 ## Problem Statement:
 The problem statement for this project is to predict the price of a used car based on a set of features, such as the car's manfacturer, years used, mileage, engine,power,kilometers driven and no. of seats. 
 ## Solution approach:
